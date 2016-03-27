@@ -10,3 +10,6 @@ http://arxiv.org/pdf/1603.04000v1.pdf
 A professor trained NN to learn hand writing
 http://arxiv.org/pdf/1308.0850v5.pdf
 Demo: http://www.cs.toronto.edu/~graves/handwriting.html
+
+A related small work
+http://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/
