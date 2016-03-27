@@ -1,5 +1,5 @@
 # AIFont
-Teaching artificial neural network to write calligraphy, to create the fist Chinese font.
+Teaching artificial neural network to write Chinese calligraphy and imitate any font style, to create the fist Chinese font.
 Since typographic was invented 3,000 years ago, making Chinese font is always a problem, because there are more than 20,000 characters in chinese.
 Thus, our idea is to train NN by just a small subset of characters (about 100+) that is styled by designer or calligrapher and than ask NN to generate the whole set of characters (about 20,000+).
 
