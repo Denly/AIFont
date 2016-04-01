@@ -13,3 +13,6 @@ Demo: http://www.cs.toronto.edu/~graves/handwriting.html
 
 A related small work
 http://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/
+
+Another related work
+http://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/
